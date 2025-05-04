@@ -204,6 +204,31 @@ Run the test suite:
 cargo test
 ```
 
+Sources & References
+MNIST Dataset (CSV Format)
+https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
+
+ndarray Crate
+https://docs.rs/ndarray/latest/ndarray/
+
+csv Crate
+https://docs.rs/csv/latest/csv/
+
+rand Crate
+https://docs.rs/rand/latest/rand/
+
+serde Crate (Optional)
+https://serde.rs/
+
+plotters Crate
+https://docs.rs/plotters/latest/plotters/
+
+image Crate
+https://docs.rs/image/latest/image/
+
+GitHub Docs – Creating a README File
+https://docs.github.com/en/get-started/quickstart/create-a-repo#adding-a-readme-file
+
 ## Contributing
 
 1. Fork the repository
