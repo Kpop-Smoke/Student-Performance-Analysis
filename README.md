@@ -6,8 +6,9 @@ A Rust-based data analysis project that examines the relationship between variou
 
 ## Project Overview
 
-This project analyzes a dataset of 1000 students to understand how different factors affect academic performance. The analysis includes statistical correlation studies, data visualization, and machine learning techniques to identify patterns and relationships in student behavior and academic outcomes.
+This project aims to explore how different student habits impact their academic performance. By analyzing a dataset of 1000 students, the project looks at various factors such as study hours, sleep, mental health, social media usage, and more, to uncover patterns and relationships that might help in understanding what drives academic success.
 
+The analysis includes statistical correlation studies, data visualizations, and machine learning techniques to draw insights and provide a comprehensive look at student behaviors and their effects on performance.
 ## Technical Implementation
 
 ### Data Structure
