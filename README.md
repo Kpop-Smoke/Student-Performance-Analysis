@@ -214,10 +214,7 @@ https://docs.rs/ndarray/latest/ndarray/
 csv Crate
 https://docs.rs/csv/latest/csv/
 
-rand Crate
-https://docs.rs/rand/latest/rand/
-
-serde Crate (Optional)
+serde Crate 
 https://serde.rs/
 
 plotters Crate
