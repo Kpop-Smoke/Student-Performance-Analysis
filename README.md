@@ -1,5 +1,3 @@
-# DS210-Final-Project
-
 # Student Performance Analysis
 
 A Rust-based data analysis project that examines the relationship between various student habits and academic performance.
